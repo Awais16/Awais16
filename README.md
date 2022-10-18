@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Awais16
-- 👀 I’m interested in eHealth and mHealth related projects.
+- 👋 Hi, I’m Awais Akhtar
+- :technologist:	Currently working at IKMB as Software Engineer.
+- 👀 I’m interested in eHealth and mHealth related development projects.
 - 🌱 I’m currently learning kubernetes.
-- 💞️ I’m looking to collaborate on opensource java / andrdoid projects.
+- 💞️ I’m looking to collaborate in opensource java / andrdoid projects.
 - 📫 How to reach me awais@emerssive.com
 
 <!---
