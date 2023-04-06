@@ -2,7 +2,7 @@
 - :technologist:	Currently working at IKMB as Software Engineer.
 - 👀 I’m interested in eHealth and mHealth related development projects.
 - 🌱 I’m currently learning kubernetes.
-- 💞️ I’m looking to collaborate in opensource java / andrdoid projects.
+- 💞️ Open to collaborate in opensource java / andrdoid projects.
 - 📫 How to reach me awais@emerssive.com
 
 <!---
